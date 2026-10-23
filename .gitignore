@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production build
+dist/
+dist-ssr/
+
+# Environment and Local configs
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Heavy raw material files in root folder (Do not push to Git)
+Design 1.png
+Design 2.png
+Design 3.png
+Design 4.png
+Design 5.png
+My image.png
+presentation Design.png
+Presentation design1.png
+logo.pdf
+
+# Editor & System
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
